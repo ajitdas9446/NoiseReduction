@@ -18,12 +18,14 @@ This project demonstrates Digital Signal Processing (DSP) noise reduction** on v
 
 ## How to Run
 1. Install dependencies:
+```bash
 pip install numpy scipy matplotlib sounddevice noisereduce
-
+```
 2. Run:
+```bash
 python3 noiseReduction.py
-
-3. Choose to record or use the example file, then the cleaned output and plots will be generated.
+```
+3. Choose to record or use the example file and press enter, then the cleaned output will be saved as cleaned_voice.wav and plots will be generated.
 
 
 ## Author
