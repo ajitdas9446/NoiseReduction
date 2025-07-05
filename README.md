@@ -1,7 +1,7 @@
 # DSP Voice Noise Reduction Mini-Project
 
 ## Overview
-This project demonstrates Digital Signal Processing (DSP) noise reduction** on voice signals using spectral subtraction in Python. Users can record a 20-second noisy voice sample or use a provided example audio file, then apply noise reduction to generate a cleaner speech output.
+This project demonstrates Digital Signal Processing (DSP) noise reduction on voice signals using spectral subtraction in Python. Users can record a 20-second noisy voice sample or use a provided example audio file, then apply noise reduction to generate a cleaner speech output.
 
 ## Features
 - Record or use example noisy audio.
