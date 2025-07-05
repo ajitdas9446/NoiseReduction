@@ -10,8 +10,8 @@ This project demonstrates Digital Signal Processing (DSP) noise reduction** on v
 - Plot waveforms before and after noise reduction.
 
 ## Files
-- voice_noise_reduction.py – Main script.
-- noisy_voice.wav – voice you will select or record noisy audio.
+- noiseReduction.py – Main script.
+- noisy_voice.wav – voice you will select or record noisy audio will be saved as noisy_voice.wav.
 - cleaned_voice.wav – Output after cleaning.
 - example_noisy_voise.wav -example noisy voice
 - README.md – This file.
@@ -19,7 +19,7 @@ This project demonstrates Digital Signal Processing (DSP) noise reduction** on v
 ## How to Run
 1. Install dependencies:
 ```bash
-pip install numpy scipy matplotlib sounddevice noisereduce
+pip3 install numpy scipy matplotlib sounddevice noisereduce
 ```
 2. Run:
 ```bash
@@ -29,6 +29,6 @@ python3 noiseReduction.py
 
 
 ## Author
-Ajit Das 
+Ajit Das,
 B.E. Computer Engineering  
 Kathmandu University
